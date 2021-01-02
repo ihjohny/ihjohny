@@ -1,6 +1,6 @@
 ### Hi I am Johny 👋
 
-![Profile views](https://gpvc.arturio.dev/PatilShreyas)
+![Profile views](https://gpvc.arturio.dev/ihjohny)
 
 - 🔭 I’m currently working on Brain Station 23...
 - 🌱 I’m currently learning Android & Flutter...
