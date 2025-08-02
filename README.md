@@ -1,7 +1,4 @@
-### Hi I am Johny 👋
-
-![Profile views](https://gpvc.arturio.dev/ihjohny)
-
+### Hi I am Imam Hossain Johny 👋
 
 ### ⚙️ &nbsp;GitHub Analytics
 
